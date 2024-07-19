@@ -1,0 +1,6 @@
+num_g = 2e14
+num_s = 4e10
+avg_p = 1.5
+
+sum = (num_g * (num_s * avg_p))
+print(sum) 
